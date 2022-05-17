@@ -1,3 +1,6 @@
+## nltk-spam-classifier
+Trabajo para la asignatura Ingeniería del Lenguaje Natural del Master de Ingenieria y Tecnologías de Sistemas Software
+
 ## Paquetes a descargar
 nltk.download('words')   
 nltk.download('punkt')   
